@@ -1,0 +1,11 @@
+Cpp exam notes:
+
+To inherit from the parent class add ': public parentNameHere' to the class delcaration up the top, add 'using book::book;' after the 'public:' on a new line
+
+When trying to call a function through a pointer use arrow ('->') notation
+
+When trying to create an object using the default constructor, drop the () (i.e. 'book book0;' instead of 'book book0()') 
+
+To delete something just go 'delete objectNameHere'
+
+
